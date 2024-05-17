@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Pedro Henrique 😁
-
+Sou Pedro Henrique Ferreira Lima, atualmente estudando para a área de front-end e buscando aprender mais a cada nova experiência. Espero que goste dos meus projetos.
  <div>
    <a href="https://github.com/PedroHenriq5">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriq5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
