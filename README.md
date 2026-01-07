@@ -6,8 +6,8 @@ Espero que goste dos meus projetos!
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriq5&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriq5&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriq5&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriq5&layout=compact&theme=tokyonight" />
 </div>
 
 ---
