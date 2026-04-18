@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</p>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Pedro+Henrique;Desenvolvedor+Front-End+em+formação;Futuro+Full-Stack+Developer"/>
