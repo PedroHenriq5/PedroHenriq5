@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Pedro+Henrique;Desenvolvedor+Front-End+em+formação;Futuro+Full-Stack+Developer"/>
+</p>
+
 ## Bem-vindo(a) ao perfil do Pedro Henrique 😁
 
 Sou **Pedro Henrique Ferreira Lima**, atualmente estudando para a área de **Front-End** e buscando aprender mais a cada nova experiência, com o objetivo de me tornar um **Desenvolvedor Full-Stack**.  
